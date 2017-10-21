@@ -1,7 +1,7 @@
 # Git/GitHub 101
 ## Git 101 with a Github After-flavor
 
-[Slides] (https://docs.google.com/presentation/d/1mBk6aHE7XgGYzCUm31BhEFvaRvKV_On7NCk1v9X7GQM/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1mBk6aHE7XgGYzCUm31BhEFvaRvKV_On7NCk1v9X7GQM/edit?usp=sharing)
 
 [Exercise 1: git init, add, status, commit, reset, diff, log](https://github.com/sortingbubbles/entering-the-git-world/blob/master/ex1.md)
 
