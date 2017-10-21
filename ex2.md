@@ -1,4 +1,4 @@
-# "Entering the Git World: Git 101 with a Github After-flavor"
+# Git/GitHub 101
 ## Άσκηση 2η - Merge Branches και Conflicts
 
 1. Ανοίγουμε το τερματικό και εκτελούμε την εντολή `git init ex2` για να δημιουργήσουμε κατευθείαν το φάκελο και το repository

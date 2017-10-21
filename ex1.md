@@ -1,4 +1,4 @@
-# "Entering the Git World: Git 101 with a Github After-flavor"
+# Git/GitHub 101
 ## Άσκηση 1η - To-Do List
 
 Περίληψη: Σε αυτή την άσκηση θα κάνουμε το πρώτο μας repository!

@@ -1,4 +1,4 @@
-# "Entering the Git World: Git 101 with a Github After-flavor"
+# Git/GitHub 101
 ## Άσκηση 4η - Δημιουργία GitHub Repository
 
 Περίληψη: Σε αυτή την άσκηση θα κάνουμε το πρώτο μας repository στο GitHub, θα δημιουργήσσυμε νέο branch, θα ανοίξουμε pull request και θα κάνουμε merge στο master.
